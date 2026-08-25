@@ -1,4 +1,4 @@
-name: CD – FastAPI
+name: CI – FastAPI
 
 on:
   workflow_run:
